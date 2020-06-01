@@ -1,1 +1,1 @@
-# ear2face
+# Ear2Face: Deep Biometric Modality Mapping
