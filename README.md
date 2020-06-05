@@ -25,12 +25,21 @@ Note 3: The related information for training & test data will be provided soon.
 ### References
 
 [1] Peng, Shouneng, et al. "Detecting genetic association of common human facial morphological variation using high density 3D image registration." PLoS computational biology 9.12 (2013).
+
 [2] Claes, Peter, et al. "Modeling 3D facial shape from DNA." PLoS genetics 10.3 (2014).
+
 [3] Richmond, Stephen, et al. "Facial genetics: a brief overview." Frontiers in genetics 9 (2018): 462.
+
 [4] Srinivas, Nisha, et al. "DNA2FACE: An approach to correlating 3D facial structure and DNA." 2017 IEEE International Joint Conference on Biometrics (IJCB), IEEE, 2017.
+
 [5] Crouch, Daniel JM, et al. "Genetics of the human face: Identification of large-effect single gene variants." Proceedings of the National Academy of Sciences 115.4 (2018): E676-E685.
+
 [6] Sero, Dzemila, et al. "Facial recognition from DNA using face-to-DNA classifiers." Nature communications 10.1 (2019): 2557.
+
 [7] Bradski, Gary, and Adrian Kaehler. "OpenCV." Dr. Dobb’s journal of software tools 3 (2000).
+
 [8] King, Davis E. "Dlib-ml: A machine learning toolkit." Journal of Machine Learning Research 10.Jul (2009): 1755-1758.
+
 [9] Gross, Ralph, et al. "Multi-pie." Image and Vision Computing 28.5 (2010): 807-813.
+
 [10] Phillips, P. Jonathon, et al. "The FERET evaluation methodology for face-recognition algorithms." IEEE Transactions on pattern analysis and machine intelligence 22.10 (2000): 1090-1104.
