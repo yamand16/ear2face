@@ -6,7 +6,7 @@ The other interesting point is that the model can generate glasses and/or emotio
 
 ### How did we create train and test sets?
 
-First of all, we executed OpenCV [7] ear detector to capture ear images and Dlib [8] face detector to capture frontal face images. Then, we decided to select 10% percent of subjects for using in subject independent test set. 
+First of all, we executed OpenCV [7] ear detector to capture ear images and Dlib [8] face detector to capture frontal face images. Then, we decided to select 10% percent of subjects for using in subject independent test set. The corresponding datasets and setups are presented in the table below.
 
 Dataset | # of subject in training set | # of images in training set | # of subject in test set | # of images in test set | Test set name 
 --- | --- | --- | --- | --- | --- 
