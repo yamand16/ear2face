@@ -29,6 +29,8 @@ In the Fig. 1, we present our system to learn mapping between two different biom
 
 Fig. 1: Image-to-image translation pipeline.
 
+------
+
 ![picture](images/test_setup_ear2face.png)
 
 Fig. 2: Face recognition pipeline using reconstructed and real face images.
