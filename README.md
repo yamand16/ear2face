@@ -4,6 +4,8 @@ This is the GitHub repository of our preliminary work on deep biometric modality
 
 The other interesting point is that the model can generate glasses and/or emotions. However, these things are not reconstructed correctly for all images. Probably, one of the main reason is low variance in the dataset. Therefore, the GAN model learns several certain variances to generate the data.
 
+Please cite our paper, if it is helpful for your research.
+
 ```
 @article{yaman2020ear2face,
   title={Ear2Face: Deep Biometric Modality Mapping},
