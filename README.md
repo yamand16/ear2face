@@ -8,9 +8,9 @@ The other interesting point is that the model can generate glasses and/or emotio
 
 First of all, we executed OpenCV [7] ear detector to capture ear images and Dlib [8] face detector to capture frontal face images. Then, we decided to select 10% percent of subjects for using in subject independent test set. 
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+Dataset | Training set | Test set | Test set name 
+--- | --- | --- | --- 
+Multi-PIE | 240 | 6544 | 240 | 1677 | Subject dependent test set 1
 
 #### Multi-PIE [9]
 
