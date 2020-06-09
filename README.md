@@ -11,6 +11,12 @@ First of all, we executed OpenCV [7] ear detector to capture ear images and Dlib
 Dataset | # of subject in training set | # of images in training set | # of subject in test set | # of images in test set | Test set name 
 --- | --- | --- | --- | --- | --- 
 Multi-PIE | 240 | 6544 | 240 | 1677 | Subject dependent test set 1
+Multi-PIE | 240 | 6544 | 10 | 95 | Subject dependent test set 2
+Multi-PIE | 240 | 6544 | 10 | 312 | Subject independent
+--- | --- | --- | --- | --- | --- 
+FERET | 504 | 623 | 504 | 504 | Subject dependent test set 1 
+FERET | 504 | 623 | 55 | 55 | Subject dependent test set 2
+FERET | 504 | 623 | 55 | 55 | Subject independent 
 
 #### Multi-PIE [9]
 
