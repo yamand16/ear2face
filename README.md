@@ -4,6 +4,15 @@ This is the GitHub repository of our preliminary work on deep biometric modality
 
 The other interesting point is that the model can generate glasses and/or emotions. However, these things are not reconstructed correctly for all images. Probably, one of the main reason is low variance in the dataset. Therefore, the GAN model learns several certain variances to generate the data.
 
+```
+@article{yaman2020ear2face,
+  title={Ear2Face: Deep Biometric Modality Mapping},
+  author={Yaman, Dogucan and Eyiokur, Fevziye Irem and Ekenel, Haz{\i}m Kemal},
+  journal={arXiv preprint arXiv:2006.01943},
+  year={2020}
+}
+```
+
 ## How did we create train and test sets?
 
 First of all, we executed OpenCV [7] ear detector to capture ear images and Dlib [8] face detector to capture frontal face images. Then, we decided to select 10% percent of subjects for using in subject independent test set. The corresponding datasets and setups are presented in the table below.
