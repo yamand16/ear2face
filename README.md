@@ -24,7 +24,7 @@ Note 2: We will upload more reconstructed examples (failure cases as well as cro
 
 Note 3: The related information for training & test data will be provided soon.
 
-Note 4: This preliminary work is done in 2019 while authors were students at Istanbul Technical University.
+Note 4: This preliminary work is done in 2019 while authors were students at Istanbul Technical University (ITU), Istanbul, Turkey.
 
 ### References
 
