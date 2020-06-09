@@ -23,9 +23,15 @@ FERET | 504 | 623 | 55 | 55 | Subject independent
 
 #### Methodology
 
+In the Fig. 1, we present our system to learn mapping between two different biometric modalities which are ear and face. Moreover, in Fig. 2, we show our pipeline to perform face recognition using reconstructed face images and real face images in order to compare identification performance since preserving identity information is crucial for our task.
+
 ![picture](images/model3.png)
 
+Fig. 1: Image-to-image translation pipeline.
+
 ![picture](images/test_setup_ear2face.png)
+
+Fig. 2: Face recognition pipeline using reconstructed and real face images.
 
 #### Results
 
