@@ -21,6 +21,12 @@ FERET | 504 | 623 | 55 | 55 | Subject independent
 
 #### FERET [10]
 
+#### Methodology
+
+![picture](images/model3.png)
+
+![picture](images/test_setup_ear2face.png)
+
 #### Results
 
 #### Discussion
