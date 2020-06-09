@@ -4,7 +4,7 @@ This is the GitHub repository of our preliminary work on deep biometric modality
 
 The other interesting point is that the model can generate glasses and/or emotions. However, these things are not reconstructed correctly for all images. Probably, one of the main reason is low variance in the dataset. Therefore, the GAN model learns several certain variances to generate the data.
 
-### How did we create train and test sets?
+## How did we create train and test sets?
 
 First of all, we executed OpenCV [7] ear detector to capture ear images and Dlib [8] face detector to capture frontal face images. Then, we decided to select 10% percent of subjects for using in subject independent test set. The corresponding datasets and setups are presented in the table below.
 
@@ -17,11 +17,11 @@ FERET | 504 | 623 | 504 | 504 | Subject dependent test set 1
 FERET | 504 | 623 | 55 | 55 | Subject dependent test set 2
 FERET | 504 | 623 | 55 | 55 | Subject independent 
 
-#### Multi-PIE [9]
+### Multi-PIE [9]
 
-#### FERET [10]
+### FERET [10]
 
-#### Methodology
+## Methodology
 
 In the Fig. 1, we present our system to learn mapping between two different biometric modalities which are ear and face. Moreover, in Fig. 2, we show our pipeline to perform face recognition using reconstructed face images and real face images in order to compare identification performance since preserving identity information is crucial for our task.
 
@@ -33,9 +33,9 @@ Fig. 1: Image-to-image translation pipeline.
 
 Fig. 2: Face recognition pipeline using reconstructed and real face images.
 
-#### Results
+## Results
 
-#### Discussion
+## Discussion
 
 Dataset bias
 
@@ -47,7 +47,7 @@ Note 3: The related information for training & test data will be provided soon.
 
 Note 4: This preliminary work is done in 2019 while authors were students at Istanbul Technical University (ITU), Istanbul, Turkey.
 
-### References
+## References
 
 [1] Peng, Shouneng, et al. "Detecting genetic association of common human facial morphological variation using high density 3D image registration." PLoS computational biology 9.12 (2013).
 
