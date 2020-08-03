@@ -50,7 +50,7 @@ Fig. 2: Face recognition pipeline using reconstructed and real face images.
 
 ## Discussion
 
-Dataset bias
+Dataset bias: One of the main problem is data bias which affects the generalization capacity of the network.
 
 ## Notes
 
