@@ -52,7 +52,7 @@ Fig. 2: Face recognition pipeline using reconstructed and real face images.
 
 Dataset bias: One of the main problem is data bias which affects the generalization capacity of the network and causes extremely similar faces with the ground truth. Strong dataset bias can be seen on the synthesized images. e.g., the synthesized face image has the similar type of hair with the ground truth one (which is not possible to predict from the ear). Besides, the specific variations (e.g., light skinned faces have no beard) are also memorized by the network during the training due to lack of variation in the datasets.
 
-Disclaimer: The further research on the large-scale dataset must be performed to investigate the task and performance.
+Disclaimer: This preliminary work does not claim that face images can be precisely synthesized from the ear images. Instead, it claims that there is a biological correlation between face and ear and this correlation can be learnt using generative adversarial nets. When we use ear images from another dataset or from the real world in the inference time, the network can synthesize face images that have correct skin color, ethnicity, etc. However, further research on the large-scale dataset must be done to investigate the task and performance.
 
 ## Notes
 
